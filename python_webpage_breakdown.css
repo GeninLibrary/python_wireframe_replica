@@ -1,0 +1,115 @@
+.wrapper {
+    width: 980px;
+    background-color: white;
+    padding: 20px;
+}
+.main_container {
+    width: 980px;
+    background-color: rgb(32,71,107);
+    text-align: center;
+}
+.main_container p {
+    width: auto;
+    margin: 0px;
+}
+.search_bar {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.search_bar a {
+    color: goldenrod;
+}
+.nav_bar {
+    width: 90%;
+    border-radius: 10px;
+    display: inline-block;
+    box-shadow: 4px 4px 2px black;
+    margin-bottom: 10px;
+    text-align: center;
+    color: white;
+    background:blue; 
+    background: -webkit-linear-gradient(rgb(38, 121, 170), rgb(56,128,170), rgb(38,122,170));
+    background: -o-linear-gradient(rgb(38, 121, 170), rgb(56,128,170), rgb(38,122,170));
+    background: -moz-linear-gradient(rgb(38, 121, 170), rgb(56,128,170), rgb(38,122,170));
+    background: linear-gradient(rgb(38, 121, 170), rgb(56,128,170), rgb(38,122,170)); 
+}
+.nav_bar h2 {
+    display: inline-block;
+    margin: 15px 15px;  
+}
+.main_container .nav_bar {
+    text-align: center;
+}
+.links {
+    color: white;
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+.links li {
+    font-size: 20px;
+    margin: 10px 0px;
+}
+.links a {
+    color: white;
+}
+.main_text {
+    color: white;
+    display: inline-block;
+    width: 600px;
+    text-align: center;
+}
+.main_text p {
+    text-align: left;
+}
+.main_text h3 {
+    color: goldenrod;
+    font-style: italic;
+    font-weight: normal;
+}
+#zen {
+    color: white;
+    font-style: normal;
+}
+.main_container_2 {
+    width: 980px;
+    background-color: white;
+    display: inline;
+}
+.left, .right {
+    width: 440px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+}
+.blue_box_1, .blue_box_2 {
+    width: 70%;
+    height: 5px;
+    background-color: lightblue; 
+    display: inline-block;
+}
+.subheader ul {
+    color: blue;
+}
+.main_container_3 {
+    width: 980px;
+    display: inline-block;
+    background-color: rgb(32,71,107);
+    padding: 40px 0px 5px;
+    color: white;
+    text-align: center;
+}
+h2 {
+    display: inline;
+    font-size: 22px;
+    font-style: normal;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.main_container_3 p {
+    font-size: 9px;
+}
